@@ -29,6 +29,10 @@ class Admin extends CI_Controller {
 	{
 		$this->load->view('Admin/login');
 	}
+	public function testtt()
+	{
+		
+	}
 
 	function category()
 	{
